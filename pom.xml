@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.nasty</groupId>
-    <artifactId>CoinSystem</artifactId>
+    <artifactId>LobbySystem</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>CoinSystem</name>
+    <name>LobbySystem</name>
 
     <description>Test</description>
     <properties>
