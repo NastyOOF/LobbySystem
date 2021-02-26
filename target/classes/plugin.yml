@@ -1,0 +1,12 @@
+name: LobbySystem
+version: 1.0-SNAPSHOT
+main: com.nasty.lobby.Main
+authors: [Nasty]
+description: LobbySystem by Your-Plugin.eu
+website: https://your-plugin.eu
+
+commands:
+    coins:
+    build:
+    cc:
+    lobbysystem:
